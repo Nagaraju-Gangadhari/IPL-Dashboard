@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bgcontainer2 {
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  background-color: rgb(52, 49, 49);
+}
+.banner {
+  width: 95%;
+  height: 200px;
+  border-radius: 10px;
+}
+.list-contain {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

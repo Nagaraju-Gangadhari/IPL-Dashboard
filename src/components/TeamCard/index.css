@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-item {
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+  width: 500px;
+}
+.card {
+  box-shadow: #ffffff 0ex 2px 3px 1px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.image {
+  height: 150px;
+  width: 100px;
+}
+.team-name {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-weight: 500;
+  font-size: 24px;
+}
+.link {
+  text-decoration: none;
+}

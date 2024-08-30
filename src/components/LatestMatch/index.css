@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.contain {
+  background-color: #0f172a;
+  width: 95%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.head {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+.head2 {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 20px;
+}
+.para {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 20px;
+}
+.image1 {
+  height: 150px;
+  width: 150px;
+}
